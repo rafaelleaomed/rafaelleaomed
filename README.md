@@ -43,6 +43,30 @@ I am currently expanding this foundation toward the interface between:
 
 ## 🚀 Featured Projects
 
+### 📄 SmartVitae
+
+Professional evidence base and factual career adaptation platform designed to eliminate AI hallucinations, prevent credential fabrication and solve qualification mismatches for healthcare professionals and clinical AI transition candidates.
+
+The project combines deterministic fast cognitive judgments (**TypeSafe JEV / System One**) with advanced reasoning models (**Claude 3.5 Sonnet / Gemini 2.5 Flash**) anchored by strict medical governance frameworks (Formação Médicos Híbridos / CFM Resolution nº 2.336/2023 / Harvard Mignone Center standard).
+
+Current development areas and core capabilities include:
+
+- **dual-engine AI architecture:** decouples fast deterministic cognitive judgment from deep generative synthesis;
+- **6-dimension candidate-job stress test:** issues strict verdicts (`KILL`, `FIX`, `SHIP`) to protect candidate reputation and prevent unfeasible applications;
+- **structured professional evidence vault:** audits degrees, medical license (CRM), clinical residencies, certifications, projects and verified skills;
+- **interactive critical gap resolution:** allows direct documentary upload to prove required qualifications or declared absence;
+- **tailored 1-column ATS resume generation:** enforces verified action verbs, deliverable metrics and explicit ethical limitations (e.g. synthetic cases, no unverified patient trial);
+- **adaptive bilingual tailoring:** automatically formats into US Resume in English or Currículo Executivo in Portuguese;
+- **isolated PDF/A4 print engine:** renders clean, print-ready documents with zero web layout artifacts;
+- **privacy-first data sanitization:** client- and server-side PII stripping complying with Brazilian LGPD.
+
+**Focus:**  
+Clinical AI Evaluation · Career Tech · Responsible AI · TypeSafe JEV · Medical Governance · ATS Optimization · Product Development
+
+[View repository →](https://github.com/rafaelleaomed/smartvitae) · [Live Demo →](https://smartvitae.onrender.com)
+
+---
+
 ### 🧠 Neurogestor
 
 Clinical workflow and surgical portfolio management platform developed from a real need to organize surgical activity, structured clinical data and longitudinal analytics.
@@ -196,13 +220,16 @@ These are areas of ongoing study and project-based learning.
 
 Technologies and platforms currently used across my projects include:
 
+- Next.js (App Router)
 - React
 - TypeScript
 - JavaScript
+- Anthropic Claude
+- Google Gemini
+- TypeSafe AI (JEV)
+- Generative AI APIs
 - Firebase
 - Supabase
-- Google Gemini
-- Generative AI APIs
 - Vite
 - Tailwind CSS
 - Recharts
