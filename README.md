@@ -1,258 +1,73 @@
-# Hi, I'm Rafael Leão 👋
+<div align="center">
 
-Physician building at the intersection of **Healthcare, Artificial Intelligence, Digital Products and Clinical AI Evaluation**.
+[🇧🇷 Português](#português) · [🇺🇸 English](#english)
 
-I am developing practical skills through structured learning, real-world projects and documented experiments focused on applying technology responsibly in healthcare.
+# Rafael Leão
 
-My current goal is to progressively build verifiable evidence of my ability to identify relevant problems, evaluate when AI adds value, contribute to digital product development and understand the clinical, technical and governance implications of AI systems in healthcare.
+**Physician building software at the intersection of healthcare, AI and digital products.**
 
----
+[LinkedIn](https://www.linkedin.com/in/rafaelleaomed/) · [NeuroGestor demo](https://neurogestor-app.web.app/#/demo)
 
-## 🩺 About Me
+</div>
 
-- Physician
-- MSc in Animal Science
-- Background in intraoperative neurophysiological monitoring
-- Experience with clinical data interpretation and surgical workflows
-- Studying AI applied to healthcare
-- Building digital products and AI-enabled workflows
-- Developing skills in clinical AI evaluation, safety and governance
+<a id="português"></a>
 
-My professional background combines medicine, clinical decision-making, neurophysiology, data interpretation and product development.
+## 🇧🇷 Português
 
-I am currently expanding this foundation toward the interface between:
+Sou médico, mestre pela UFMG e atuo em monitorização neurofisiológica intraoperatória. Transformo problemas que encontro na prática clínica em produtos digitais com dados estruturados, automação, IA assistiva e supervisão humana.
 
-**Medicine + AI + Digital Products + Clinical Evaluation + Governance + Business**
+### Projetos principais
 
----
+#### 1. [NeuroGestor](https://github.com/rafaelleaomed/neurogestor): projeto principal
+Dados de cirurgias e MNIO costumam ficar dispersos entre papel, planilhas e fotos. O NeuroGestor organiza o registro clínico, o fluxo operacional e o portfólio cirúrgico, com OCR assistido por Gemini, geração revisável de laudos, analytics, exportações e controles de privacidade.
+**Stack:** React 19, TypeScript, Vite, Firebase, Gemini e Recharts. · [Demonstração com dados sintéticos](https://neurogestor-app.web.app/#/demo)
 
-## 🎯 Current Focus
+#### 2. [MedCrivo](https://github.com/rafaelleaomed/medcrivo)
+Profissionais de saúde precisam produzir conteúdo sem perder rigor ético e científico. O MedCrivo reúne planejamento editorial, geração multiformato, revisão de conformidade CFM/CFO e fluxo de aprovação humana antes da publicação.
+**Stack:** Next.js 16, React 19, TypeScript, Supabase, Claude e Remotion.
 
-- Artificial Intelligence in Healthcare
-- Clinical AI Evaluation
-- Digital Health
-- Healthcare Product Management
-- Responsible AI
-- Clinical Safety
-- Human-in-the-loop systems
-- AI Governance
-- Clinical Workflow Automation
-- Digital Product Development
+#### 3. [LeãoMed Capital](https://github.com/rafaelleaomed/leaomed-capital)
+Plataforma de inteligência financeira criada para consolidar finanças PF/PJ, importar documentos, classificar transações e apoiar decisões patrimoniais. Inclui OCR, regras determinísticas, classificação assistida por IA, isolamento por usuário e modo de demonstração sintético.
+**Stack:** Next.js 16, TypeScript, Neon PostgreSQL, Supabase Auth e TypeSafe AI. · [Demonstração](https://leaomed-capital-rafael-leaos-projects-e3cb079d.vercel.app/demo)
 
----
+#### 4. [SmartVitae](https://github.com/rafaelleaomed/smartvitae)
+Ferramenta de adequação curricular que compara evidências profissionais com requisitos de vagas e reduz o risco de qualificações inventadas por IA. Estrutura documentos, identifica lacunas e gera adaptações rastreáveis para revisão do candidato.
+**Stack:** Next.js 15, React 19, TypeScript, TypeSafe AI, Claude e Vitest. · [Demonstração](https://smartvitae.onrender.com)
 
-## 🚀 Featured Projects
+### Competências demonstradas
 
-### 📄 SmartVitae
+- Tradução de problemas clínicos e operacionais em requisitos de produto;
+- aplicações de IA com escopo definido, validação humana e fallback;
+- privacidade, controle de acesso e proteção de dados sensíveis;
+- desenvolvimento full stack, testes automatizados e documentação técnica.
 
-Professional evidence base and factual career adaptation platform designed to eliminate AI hallucinations, prevent credential fabrication and solve qualification mismatches for healthcare professionals and clinical AI transition candidates.
+<a id="english"></a>
 
-The project combines deterministic fast cognitive judgments (**TypeSafe JEV / System One**) with advanced reasoning models (**Claude 3.5 Sonnet / Gemini 2.5 Flash**) anchored by strict medical governance frameworks (Formação Médicos Híbridos / CFM Resolution nº 2.336/2023 / Harvard Mignone Center standard).
+## 🇺🇸 English
 
-Current development areas and core capabilities include:
+I am a physician with a master's degree from UFMG and experience in intraoperative neurophysiological monitoring. I turn problems observed in clinical practice into digital products using structured data, automation, assistive AI and human oversight.
 
-- **dual-engine AI architecture:** decouples fast deterministic cognitive judgment from deep generative synthesis;
-- **6-dimension candidate-job stress test:** issues strict verdicts (`KILL`, `FIX`, `SHIP`) to protect candidate reputation and prevent unfeasible applications;
-- **structured professional evidence vault:** audits degrees, medical license (CRM), clinical residencies, certifications, projects and verified skills;
-- **interactive critical gap resolution:** allows direct documentary upload to prove required qualifications or declared absence;
-- **tailored 1-column ATS resume generation:** enforces verified action verbs, deliverable metrics and explicit ethical limitations (e.g. synthetic cases, no unverified patient trial);
-- **adaptive bilingual tailoring:** automatically formats into US Resume in English or Currículo Executivo in Portuguese;
-- **isolated PDF/A4 print engine:** renders clean, print-ready documents with zero web layout artifacts;
-- **privacy-first data sanitization:** client- and server-side PII stripping complying with Brazilian LGPD.
+### Featured projects
 
-**Focus:**  
-Clinical AI Evaluation · Career Tech · Responsible AI · TypeSafe JEV · Medical Governance · ATS Optimization · Product Development
+#### 1. [NeuroGestor](https://github.com/rafaelleaomed/neurogestor): flagship project
+Surgical and IONM data can become fragmented across paper records, spreadsheets and photos. NeuroGestor structures clinical records, operational workflow and surgical portfolios, with Gemini-assisted OCR, reviewable report drafting, analytics, exports and privacy controls.
+**Stack:** React 19, TypeScript, Vite, Firebase, Gemini and Recharts. · [Synthetic-data demo](https://neurogestor-app.web.app/#/demo)
 
-[View repository →](https://github.com/rafaelleaomed/smartvitae) · [Live Demo →](https://smartvitae.onrender.com)
+#### 2. [MedCrivo](https://github.com/rafaelleaomed/medcrivo)
+Healthcare professionals need to create content without losing ethical and scientific rigor. MedCrivo combines editorial planning, multi-format generation, CFM/CFO compliance review and human approval before publication.
+**Stack:** Next.js 16, React 19, TypeScript, Supabase, Claude and Remotion.
 
----
+#### 3. [LeãoMed Capital](https://github.com/rafaelleaomed/leaomed-capital)
+A financial intelligence platform built to consolidate personal and business finances, ingest documents, classify transactions and support wealth decisions. It includes OCR, deterministic rules, AI-assisted classification, user isolation and a synthetic demo mode.
+**Stack:** Next.js 16, TypeScript, Neon PostgreSQL, Supabase Auth and TypeSafe AI. · [Demo](https://leaomed-capital-rafael-leaos-projects-e3cb079d.vercel.app/demo)
 
-### 🧠 Neurogestor
+#### 4. [SmartVitae](https://github.com/rafaelleaomed/smartvitae)
+A career-alignment tool that compares verified professional evidence with job requirements and reduces the risk of AI-fabricated qualifications. It structures documents, identifies gaps and produces traceable adaptations for candidate review.
+**Stack:** Next.js 15, React 19, TypeScript, TypeSafe AI, Claude and Vitest. · [Demo](https://smartvitae.onrender.com)
 
-Clinical workflow and surgical portfolio management platform developed from a real need to organize surgical activity, structured clinical data and longitudinal analytics.
+### Demonstrated capabilities
 
-The project explores how structured data, workflow automation and AI-assisted information processing can support the organization and analysis of surgical activity.
-
-Current development areas include:
-
-- surgical case management;
-- structured clinical data;
-- analytical dashboards;
-- document organization;
-- AI-assisted data extraction;
-- workflow automation;
-- access control and security;
-- clinical data governance.
-
-**Focus:**  
-Digital Health · Clinical Workflow · Healthcare Data · AI · Product Development
-
-[View repository →](https://github.com/rafaelleaomed/neurogestor)
-
----
-
-### 💰 Bingo2Gether
-
-Digital financial planning product designed for couples who want to organize shared finances, goals and financial decisions in a more collaborative way.
-
-The project explores product design, user experience, behavioral engagement and digital financial management.
-
-Core concepts include:
-
-- shared financial planning;
-- individual and joint goals;
-- gamification;
-- progress tracking;
-- financial dashboards;
-- couples-focused user experience;
-- subscription-based product strategy.
-
-The project is currently being prepared for repository publication and technical refinement.
-
-**Focus:**  
-Product Development · SaaS · UX · Gamification · Business Model · Fintech
-
----
-
-## 🔬 What I'm Building Evidence In
-
-| Area | Current Stage |
-|---|---|
-| Clinical problem identification | In development |
-| AI in healthcare | In development |
-| Digital product development | In development |
-| Healthcare workflow design | In development |
-| Clinical AI evaluation | In development |
-| AI safety and governance | In development |
-| Healthcare product management | In development |
-| Software development | In development |
-| Product strategy | In development |
-| Human-in-the-loop systems | In development |
-
----
-
-## 📚 Learning Journey
-
-I am currently building a structured learning path in:
-
-- Generative AI for Healthcare
-- Responsible AI
-- Clinical AI Evaluation
-- Digital Health
-- Product Development
-- Healthcare AI Governance
-- Clinical Safety
-- Human Oversight
-- AI-enabled workflows
-
-My goal is not simply to learn how to use AI tools.
-
-I want to understand:
-
-- where AI creates meaningful value in healthcare;
-- when AI is not necessary;
-- how AI systems should be evaluated;
-- how their outputs should be validated;
-- what risks they introduce;
-- where human oversight is required;
-- how they affect clinical workflows;
-- how they should be governed;
-- how digital health products can be designed around real user needs.
-
----
-
-## 🧠 Professional Background
-
-My background combines:
-
-- Medicine
-- Intraoperative neurophysiological monitoring
-- Veterinary Medicine
-- MSc in Animal Science
-- Clinical data interpretation
-- Surgical workflows
-- Decision-making under clinical context
-- Digital product development
-
-This combination gives me a practical perspective on the interaction between:
-
-**clinical judgment, data, technology, workflow and decision-making.**
-
----
-
-## 🧩 How I Approach Healthcare AI
-
-When evaluating or designing AI-enabled healthcare solutions, I am developing a structured approach based on:
-
-**Problem → User → Workflow → Data → Model → Expected Benefit → Validation → Risk → Human Oversight → Privacy → Regulation → Implementation → Monitoring**
-
-The central questions are:
-
-> Is AI actually necessary for this problem?
-
-And, if it is:
-
-> How can we demonstrate that it is useful, safe and appropriate for the context in which it will be used?
-
----
-
-## 🛡️ Areas of Growing Interest
-
-I am progressively developing knowledge in:
-
-- Responsible AI
-- Clinical AI Safety
-- AI validation
-- Bias and fairness
-- Explainability
-- Human oversight
-- Accountability
-- Data protection
-- Healthcare regulation
-- AI governance
-- Clinical risk management
-
-These are areas of ongoing study and project-based learning.
-
----
-
-## 🛠️ Technologies & Tools
-
-Technologies and platforms currently used across my projects include:
-
-- Next.js (App Router)
-- React
-- TypeScript
-- JavaScript
-- Anthropic Claude
-- Google Gemini
-- TypeSafe AI (JEV)
-- Generative AI APIs
-- Firebase
-- Supabase
-- Vite
-- Tailwind CSS
-- Recharts
-- Git
-- GitHub
-
-I use these technologies primarily as tools for building and testing healthcare and digital product ideas rather than as an end in themselves.
-
----
-
-## 📈 Portfolio Philosophy
-
-I am building this portfolio around three questions:
-
-**What did I learn?**  
-**What did I build?**  
-**What evidence do I have that I can apply it?**
-
-My goal is to progressively move from studying AI in healthcare to demonstrating practical capability through documented projects.
-
----
-
-## 📫 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/rafaelleaomed/)
-- GitHub: [@rafaelleaomed](https://github.com/rafaelleaomed)
+- Translating clinical and operational problems into product requirements;
+- scoped AI applications with human validation and fallback paths;
+- privacy, access control and sensitive-data protection;
+- full-stack development, automated testing and technical documentation.
